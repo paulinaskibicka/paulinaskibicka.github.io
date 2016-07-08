@@ -1,0 +1,49 @@
+body{
+	background-color: brown;
+}
+p{
+	border-style: solid;
+}
+#first{
+width: 500px;
+height: 500px;
+background-color: grey;
+margin-left: 50px;
+}
+
+#second{
+width: 500px;
+height: 500px;
+background-color: black
+}
+
+#third{
+width: 500px;
+height: 500px;
+background-color: grey
+}
+
+nav{
+	width:500px
+	font-size: 100px;
+	list-style: none;
+	
+
+
+
+ul{
+	list-style-type: none;
+	border-style: solid;
+}
+
+li{
+	float: right;	
+
+
+}
+
+li a { 
+  color:black;
+  float: right;
+  padding: 35px 50px;
+}
